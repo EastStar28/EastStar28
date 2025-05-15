@@ -81,9 +81,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EastStar28&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="200" alt="Top Languages" />
 </div>
 
-<h3 align="center">👾 Pac-Man Mode Activated</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="80" alt="Pacman eating dots" />
+
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Chill programmer gif" />
+
 </p>
 
 ###
