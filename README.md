@@ -75,6 +75,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EastStar28&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EastStar28&theme=tokyonight&hide_border=false&border_radius=10" height="200" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EastStar28&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="200" alt="Top Languages" />
+</div>
+
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/s6b_m6fCF0sAAAAi/miku-miku-dance.gif"  />
