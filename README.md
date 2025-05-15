@@ -82,7 +82,12 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="150" alt="Chill programmer gif" />
+<h3 align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" alt="Cat coding gif" />
+</p>
+
+
 
 </p>
 
