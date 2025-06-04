@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ What I use to build things
+What I use to build things
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="Unity" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 🌐 Socials & Contact
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 💻 Languages I work with
+ Languages I work with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EastStar28&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&cache_seconds=1800" height="200" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 🎵 Spotify Recently Played
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/3127hxp4nwgx5ru5dotoligcwbjm">
@@ -76,10 +76,4 @@
 
 ---
 
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
