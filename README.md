@@ -62,7 +62,7 @@
 
 ---
 
-### 🎧 Spotify & Miku Vibes
+### 🎧 Spotify 
 
 <div align="center">
   <a href="https://open.spotify.com/user/3127hxp4nwgx5ru5dotoligcwbjm">
