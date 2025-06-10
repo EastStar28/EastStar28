@@ -4,7 +4,7 @@
 
 ---
 
-What I use to build things
+### 🚀 What I use to build things
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="Unity" />
@@ -25,7 +25,7 @@ What I use to build things
 
 ---
 
-
+### 📱 Find me on
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
@@ -38,7 +38,7 @@ What I use to build things
 
 ---
 
- Languages I work with
+### 💻 Languages I work with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
@@ -53,16 +53,16 @@ What I use to build things
 
 ---
 
-
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EastStar28&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&cache_seconds=1800" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EastStar28&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=1800" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EastStar28&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&cache_seconds=1800&langs_count=10" height="200" />
 </div>
 
 ---
 
-
+### 🎧 Spotify & Miku Vibes
 
 <div align="center">
   <a href="https://open.spotify.com/user/3127hxp4nwgx5ru5dotoligcwbjm">
@@ -70,6 +70,3 @@ What I use to build things
   </a>
   <img align="right" height="150" src="https://media.tenor.com/s6b_m6fCF0sAAAAi/miku-miku-dance.gif" />
 </div>
-
----
-
