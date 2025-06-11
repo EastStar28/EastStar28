@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi there! I'm a college student currently pursuing my bachelor's degree at PGRI Ronggolawe University in Tuban</h2>
 
----
+--
 
 ### 🚀 What I use to build things
 
