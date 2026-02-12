@@ -69,5 +69,5 @@
   <a href="https://open.spotify.com/user/3127hxp4nwgx5ru5dotoligcwbjm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3127hxp4nwgx5ru5dotoligcwbjm&count=5" alt="Spotify Recently Played" />
   </a>
-  <img align="right" height="150" src="https://media.tenor.com/s6b_m6fCF0sAAAAi/miku-miku-dance.gif" />
+  <img align="right" height="150" src="https://media.tenor.com/s6b_m6fCF0sAAAAi/miku-miku-dance.gif"/>
 </div>
