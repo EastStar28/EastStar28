@@ -120,18 +120,4 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EastStar28&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ From [EastStar28](https://github.com/EastStar28)
-
-</div>
