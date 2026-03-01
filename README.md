@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rosyid Ibnu Hunayyu</h1>
-<h3 align="center">🎓 Informatics Student at PGRI Ronggolawe University | 🚀 Tech Enthusiast | 🤖 AI Explorer</h3>
+<h3 align="center">🎓 Informatics Student at PGRI Ronggolawe University | 🚀 Tech Enthusiast | 🤖 AI Explorer | 🎮 Gamer | 📚 Novel Lover | 🎌 Anime Enthusiast</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 Bachelor Student at **PGRI Ronggolawe University, Tuban**
 - 💻 Passionate about **AI, Android, Game Dev, and Web Development**
 - 🧩 Love building things with Unity, Android Studio & CodeIgniter
-- 🌌 Galaxy theme enjoyer
+- 🌌 Galaxy enjoyer
 
 ---
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animation)
+## 🐍 shhhhhhhh ulerr
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 </div>
 
-> ⚠️ Snake animation perlu GitHub Action. Kalau mau saya buatkan workflow-nya juga.
+
 
 ---
 
